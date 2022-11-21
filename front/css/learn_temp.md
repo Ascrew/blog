@@ -1,0 +1,1 @@
+flex 1 1 auto 在窗口有变化的时候 导致内容冲出div  可以在display: flex 子元素上加上width 0  不一定是在flex 1 1 auto上
