@@ -8,11 +8,11 @@
 
 3. 现在完成时态  
   构成： `have变位` + `动词过去分词`  
-  eg: I/she have/has eaten applees in morning;
+  eg: I/she have/has eaten apples in morning;
 
 4. 现在完成进行时态  
   构成： `have变位` + `been` + `动词现在分词`  
-  eg: i/she have/has been eating apples;  
+  eg: I/she have/has been eating apples;  
 
 5. 过去一般时态  
   构成： `动词过去式`  

@@ -6,7 +6,7 @@
       eg: `To eat a carrot every day` is good for the rabbit.
 
     - 宾语  
-      eg: i consider it(形式宾语) importatnt `to eat a carrot every day`.
+      eg: i consider it(形式宾语) important `to eat a carrot every day`.
 
     - 宾补  
       eg: The rabbit expected the wolf `to eat a carrot`.
@@ -19,7 +19,7 @@
 
     - 状语(可以表示`原因、目的、结果`)
       - 原因  
-        eg: I was surprised `to ge ta thumbs-up`.  
+        eg: I was surprised `to get ta thumbs-up`.  
         translate: 我很吃惊（因为）得到一个赞。
 
       - 目的  
